@@ -1,0 +1,14 @@
+{
+
+  "name": "quiz",
+  "version": "1.0.0":,
+  "deskription": "first project",
+  "main": "index.js",
+  "repository": "git@github.com:DmitriyReut81/quiz-.git",
+  "scripts": {},
+  "author": "Dmitiy Reut",
+  "license": "",
+  "devdepencies": "",
+  "depencies": ""
+
+}
